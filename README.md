@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------------------------------------
 
-In this jupyter notebook, I have built visualizations from stocks dataset.
+In this jupyter notebook, I have built visualizations from Stocks dataset.
 
 Stocks dataset is available in this repository.
 
