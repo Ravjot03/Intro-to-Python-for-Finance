@@ -1,11 +1,14 @@
 # Intro-to-Python-for-Finance
 
 ---
-In this jupyter notebook, I have built visualizations from Stocks dataset.
+## Description
+In this jupyter notebook, I have built some visualizations from Stocks dataset.
 
+I have used Matplotlib package for creating visualizations - line plots, and histograms.
+
+---
+## Dataset info
 Stocks dataset is available in this repository.
-
-I have used Matplotlib package for creating line plots, scatter plots and histograms.
 
 ---
 ## Contents
