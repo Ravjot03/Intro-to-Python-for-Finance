@@ -8,7 +8,7 @@ I have used Matplotlib package for creating visualizations - line plots, and his
 
 ---
 ## Dataset info
-Stocks dataset is available in this repository.
+Stocks dataset is available in this repository. ([Here](https://github.com/Ravjot03/Intro-to-Python-for-Finance/blob/main/Dataset/stock_data2.csv))
 
 ---
 ## Contents
